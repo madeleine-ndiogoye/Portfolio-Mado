@@ -32,7 +32,7 @@ st.write("_________________")
 
 # ------- EXPERIENCE -------------
 st.header("Expériences")
-st.write("* Semptembre 2025: Stage à la Direction Régionale de Développement Rural (DRDR): Participation aux activités agricoles")
+st.write("* Septembre 2025: Stage à la Direction Régionale de Développement Rural (DRDR): Participation aux activités agricoles")
 st.write("* 2015 et 2017: Exploitation familiale: travail sur les terres agricoles (culturess du mil et d'arachide)")
 st.write("_________________")
 
